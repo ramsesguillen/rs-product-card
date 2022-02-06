@@ -10,6 +10,15 @@
   "engines": {
     "node": ">=10"
   },
+  "repository": {
+    "url": "https://github.com/ramsesguillen/rs-product-card",
+    "type": "git"
+  },
+  "keywords": [
+    "Product",
+    "Card",
+    "count"
+  ],
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
